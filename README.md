@@ -5,7 +5,7 @@ Grupo: DIU1_01AABB.  Curso: 2019/20
 
 Proyecto: 
 
-Descripción: 
+Descripción: Nuestro proyecto consiste en crear una tienda on-line de fotografía (tanto analógica como digital)
 
 Logotipo: 
 
