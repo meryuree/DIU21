@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   María Ureña Legaza     :octocat:     
+ * :bust_in_silhouette:  Pedro Iniesta López     :octocat:
 
 ----- 
 
