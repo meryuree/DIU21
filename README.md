@@ -35,6 +35,10 @@ He escogido inspirock.com porque me parece que tiene una interfaz bastante intui
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+
+![Aquí la descripción de la imagen por si no carga]
+(https://raw.githubusercontent.com//meryuree/DIU21/img/Marina.jpg)
+
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
