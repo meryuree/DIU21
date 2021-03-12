@@ -35,8 +35,10 @@ He escogido inspirock.com porque me parece que tiene una interfaz bastante intui
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Persona 1:
+(https://github.com/meryuree/DIU21/blob/COVID-19/img/Pablo.png)
 
-![Aquí la descripción de la imagen por si no carga]
+Persona 2:
 (https://github.com/meryuree/DIU21/blob/COVID-19/img/Marina.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
