@@ -29,7 +29,13 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-He escogido inspirock.com porque me parece que tiene una interfaz bastante intuituva y sencilla, a la vez que bajo mi punto de vista ofrece un servicio bastante completo. La idea de organizar un viaje completamente personalizado día a día y poder disfrutar de grandes ofertas en ellos me parece bastante atractiva para los usuarios en general y en concreto para mi. El resto de ideas también me parecen interesantes, por ejemplo la página nomadizers para buscar un compañero de viaje es bastante innovadora y entretenida sobre todo para personas jóvenes, sin embargo no creo que haya tantas personas de edad adulta que se planteen su uso, por lo que sería una desventaja en la competencia. Amovens tiene una interfaz bastante visual y creativa, sin embargo considero que la empresa "Blablacar" es más completa y conocida entre los usuarios y también sería una desventaja competitiva en este caso. Por último, las muchas aplicaciones que existen para organizar viajes (Tripit, Lambus...) considero que son bastante completas y fáciles de usar pero, sin embargo, tienen una gran desventaja competitiva frente a las páginas web: los usuarios de entre 40-70 años, al organizar un viaje escogen antes una página web que una app, ya sea por comodidad o por cualquier otras razones, lo que me parece una gran desventaja debido a que una alta parte de la población que organiza viajes está en ese rango de edad. 
+ Queríamos seleccionar una web para la planificación y organización de viajes. Entre nuestras opciones se encontraban Inspirock, Lonely Planet, Google Trips y Roadtrippes. Todas estas páginas nos permiten organizar viajes de una manera fácil.
+
+Nos hemos decantado por Inspirock pues a nuestro parecer es la más completa de todas. Se puede personalizar de muchas maneras la ruta que vamos a realizar, nos muestra un esquema de lo que hay que hacer cada día del viaje y los puntos de más intereses. De todas las webs, es la más cómoda para organizar un viaje, sin embargo, tiene algunos puntos negativos que se deberían cubrir. Entre estos puntos se encuentran la dificultad para comparar precios y saber el coste del viaje, la falta de una traducción a distintos idiomas y la no-inclusión de una opción para organizar viajes con personas con dificultades o mascotas.
+
+La competencia cubren muchos de los puntos que le faltan a Inspirock, no obstante, son webs más difíciles de utilizar y menos completa que Inspirock. Si se suplieran estos pequeños contratiempos, sin duda alguna, Inspirock sería la mejor web para organizar viajes.
+
+file:///home/mariaul/Escritorio/Curso20-21_2cua/DIU/Practicas/P1/Tabla%20Competidores.pdf
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
