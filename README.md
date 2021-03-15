@@ -35,6 +35,8 @@ Nos hemos decantado por Inspirock pues a nuestro parecer es la más completa de 
 
 La competencia cubren muchos de los puntos que le faltan a Inspirock, no obstante, son webs más difíciles de utilizar y menos completa que Inspirock. Si se suplieran estos pequeños contratiempos, sin duda alguna, Inspirock sería la mejor web para organizar viajes.
 
+https://github.com/meryuree/DIU21/blob/COVID-19/P1/Tabla%20Competidores.pdf
+
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
