@@ -52,6 +52,9 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles.png
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Persona 1:
+https://github.com/meryuree/DIU21/blob/COVID-19/P1/pablo-jm.png
+
 Persona 2:
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles-jm.png
 
