@@ -43,10 +43,10 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P1/Tabla%20Competidores.pdf
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 Persona 1:
-(https://github.com/meryuree/DIU21/blob/COVID-19/img/Pablo.png)
+https://github.com/meryuree/DIU21/blob/COVID-19/P1/pablo.png
 
 Persona 2:
-(https://github.com/meryuree/DIU21/blob/COVID-19/img/Marina.png)
+https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles.png
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
