@@ -52,7 +52,8 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles.png
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
+Persona 2:
+https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles-jm.png
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
