@@ -37,36 +37,31 @@ La competencia cubren muchos de los puntos que le faltan a Inspirock, no obstant
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/Tabla%20Competidores.pdf
 
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Persona 1:
+La primera persona que hemos seleccionada, Pablo, es un padre de una persona discapacitada. Nos ha parecido interesante estudiar su caso debido a que puede verse con complicaciones o pocas facilidades a la hora de escoger un viaje.
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/pablo.png
 
-Persona 2:
+La segunda persona que hemos elegido, Ángeles, es una señora mayor que decide viajar sola, sin ningún conocimiento de idiomas. Este caso es también interesante ya que tampoco dispone de todas las facilidades de las que dispondría un jóven, con conocimientos en páginas web y en idiomas.
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles.png
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-Persona 1:
+
+La primera experiencia que hemos escogido es la de un padre que quiere irse de viaje con su familia, teniendo en cuenta que su hijo es discapacitado. Consideramos que esta situación puede llegar a ser común, pues al igual que su hijo tiene una discapacidad, podríamos querer viajar con una persona mayor que ya necesita ir en silla de ruedas. Sin embargo, es un ejemplo que se sale un poco de lo común y nos ayuda a ponernos en la piel de esa persona para viajar.
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/pablo-jm.png
 
-Persona 2:
+La segunda experiencia que hemos desarrollado es la de una señora mayor que viaja al extranjero sola sin saber el idioma. Este caso es menos común que el anterior pues normalmente las personas mayores suelen ir acompañadas, no obstante, puede darse el caso de querer ir sola. Esta experiencia nos ayuda a comprender un ejemplo fuera de lo común pero que puede ocurrir.
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles-jm.png
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+https://github.com/meryuree/DIU21/blob/COVID-19/P1/Usability-review-template%20(1).pdf
+
+Nota: 78/100
+Después de analizar Inspirock, hemos llegado a la conclusión de que es una buena página web para organizar un viaje completo. Sin embargo, no es perfecta, el servicio de atención al cliente es mejorable pues es difícil contactar con Inspirock para solucionar problemas. Además, no hay una traducción al español y debes saber inglés. En resumen, si no tienes muchos problemas organizando el viaje va a ser una experiencia gratificante, pero en el momento que tengas problemas con el inglés o salte algún problema, puede llegar a ser frustrante.
 
 
 ## Paso 2. UX Design  
