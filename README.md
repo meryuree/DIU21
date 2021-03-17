@@ -40,9 +40,11 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P1/Tabla%20Competidores.pdf
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 La primera persona que hemos seleccionada, Pablo, es un padre de una persona discapacitada. Nos ha parecido interesante estudiar su caso debido a que puede verse con complicaciones o pocas facilidades a la hora de escoger un viaje.
+
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/pablo.png
 
 La segunda persona que hemos elegido, Ángeles, es una señora mayor que decide viajar sola, sin ningún conocimiento de idiomas. Este caso es también interesante ya que tampoco dispone de todas las facilidades de las que dispondría un jóven, con conocimientos en páginas web y en idiomas.
+
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles.png
 
 
@@ -50,9 +52,11 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles.png
 ----
 
 La primera experiencia que hemos escogido es la de un padre que quiere irse de viaje con su familia, teniendo en cuenta que su hijo es discapacitado. Consideramos que esta situación puede llegar a ser común, pues al igual que su hijo tiene una discapacidad, podríamos querer viajar con una persona mayor que ya necesita ir en silla de ruedas. Sin embargo, es un ejemplo que se sale un poco de lo común y nos ayuda a ponernos en la piel de esa persona para viajar.
+
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/pablo-jm.png
 
 La segunda experiencia que hemos desarrollado es la de una señora mayor que viaja al extranjero sola sin saber el idioma. Este caso es menos común que el anterior pues normalmente las personas mayores suelen ir acompañadas, no obstante, puede darse el caso de querer ir sola. Esta experiencia nos ayuda a comprender un ejemplo fuera de lo común pero que puede ocurrir.
+
 https://github.com/meryuree/DIU21/blob/COVID-19/P1/angeles-jm.png
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
