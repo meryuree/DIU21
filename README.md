@@ -128,6 +128,9 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
 Home:
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio%20-%20Initial.jpg
 
+Destinos:
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/destino%20-%20Initial.jpg
+
 
 ## Paso 3. Make (Prototyping) 
 
