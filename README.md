@@ -101,6 +101,7 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
