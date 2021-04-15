@@ -113,7 +113,7 @@ Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
   
-  https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
