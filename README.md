@@ -134,6 +134,9 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/destino%20-%20Initial.jpg
 Fecha:
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/iPhone%20Wireframe1%20-%20Initial.jpg
 
+Alojamiento:
+https://github.com/meryuree/DIU21/blob
+
 
 ## Paso 3. Make (Prototyping) 
 
