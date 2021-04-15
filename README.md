@@ -121,6 +121,8 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Página inicio:
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
 
 
 ## Paso 3. Make (Prototyping) 
