@@ -95,6 +95,8 @@ Se incluirán otras facetas para hacer muchas más cómodas las reservas de viaj
 
 Puede que haya alguna dificultad al implementar los mejores puntos de Inspirock pues hacer un diario de viaje y mostrar tanta información como esta página es un tema complicado. Sin embargo, hay otros temas más fáciles a implementar como los viajes predeterminados.
 
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
+
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
