@@ -77,7 +77,7 @@ Después de analizar Inspirock, hemos llegado a la conclusión de que es una bue
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/WhatsApp%20Image%202021-04-14%20at%2017.32.04.jpeg
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
