@@ -87,7 +87,11 @@ Después de analizar Inspirock, hemos llegado a la conclusión de que es una bue
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> La propuesta de valor que tenemos se basa en la mejora y adición de ciertos aspectos de Inspirock. Entre estos aspectos se encuentran la traducción de la web a muchos idiomas, una mayor facilidad para comparar los precios de los viajes y hoteles. Además, lo más importante es ofrecer ayuda a más tipos de usuarios, dando facilidades a personas con discapacidad, ancianos o gente con mascotas.
+
+Se incluirán otras facetas para hacer muchas más cómodas las reservas de viajes, para fomentar esto se añadirán un chat para preguntas, una asistencia telefónica y el poder contactar con personas locales para preguntarles por lugares no tan conocidos de su zona. 
+
+Puede que haya alguna dificultad al implementar los mejores puntos de Inspirock pues hacer un diario de viaje y mostrar tanta información como esta página es un tema complicado. Sin embargo, hay otros temas más fáciles a implementar como los viajes predeterminados.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
