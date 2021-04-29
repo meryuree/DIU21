@@ -74,21 +74,6 @@ Después de analizar Inspirock, hemos llegado a la conclusión de que es una bue
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-Feedback capture grid:
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/feedback-capture-grid.jpeg
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> 
-
 La propuesta de valor que tenemos se basa en la mejora y adición de ciertos aspectos de Inspirock. Entre estos aspectos se encuentran la traducción de la web a muchos idiomas, una mayor facilidad para comparar los precios de los viajes y hoteles. Además, lo más importante es ofrecer ayuda a más tipos de usuarios, dando facilidades a personas con discapacidad, ancianos o gente con mascotas.
 
 Se incluirán otras facetas para hacer muchas más cómodas las reservas de viajes, para fomentar esto se añadirán un chat para preguntas, una asistencia telefónica y el poder contactar con personas locales para preguntarles por lugares no tan conocidos de su zona. 
@@ -100,27 +85,17 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
   
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 Página inicio:
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
