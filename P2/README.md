@@ -1,11 +1,6 @@
 DIU - Practica2, entregables
 
-Entregables de la práctica:
-1. Ideación: Malla Receptora/mapa empatía/POV e Insights (15%)
-
-
-
-2. Propuesta de valor (ScopeCanvas) 15%
+1. Propuesta de valor
 
 La propuesta de valor que tenemos se basa en la mejora y adición de ciertos aspectos de Inspirock. Entre estos aspectos se encuentran la traducción de la web a muchos idiomas, una mayor facilidad para comparar los precios de los viajes y hoteles. Además, lo más importante es ofrecer ayuda a más tipos de usuarios, dando facilidades a personas con discapacidad, ancianos o gente con mascotas.
 
@@ -15,15 +10,15 @@ Puede que haya alguna dificultad al implementar los mejores puntos de Inspirock 
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 
-3. Análisis de Tareas (15%)
+2. Análisis de Tareas
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
 
-4. Mapa de sitio y etiquetado (15%)
+3. Mapa de sitio y etiquetado
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
-5. Bocetos (40%)
+4. Bocetos 
 
 Página inicio: https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
 
