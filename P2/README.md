@@ -1,8 +1,10 @@
 DIU - Practica2, entregables
 
+1. Ideación
+
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/feedback-capture-grid.jpeg
 
-1. Propuesta de valor
+2. Propuesta de valor
 
 La propuesta de valor que tenemos se basa en la mejora y adición de ciertos aspectos de Inspirock. Entre estos aspectos se encuentran la traducción de la web a muchos idiomas, una mayor facilidad para comparar los precios de los viajes y hoteles. Además, lo más importante es ofrecer ayuda a más tipos de usuarios, dando facilidades a personas con discapacidad, ancianos o gente con mascotas.
 
@@ -12,15 +14,15 @@ Puede que haya alguna dificultad al implementar los mejores puntos de Inspirock 
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 
-2. Análisis de Tareas
+3. Análisis de Tareas
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
 
-3. Mapa de sitio y etiquetado
+4. Mapa de sitio y etiquetado
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
-4. Bocetos 
+5. Bocetos 
 
 Página inicio: https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
 
@@ -32,7 +34,3 @@ Fecha: https://github.com/meryuree/DIU21/blob/COVID-19/P2/iPhone%20Wireframe1%20
 
 Alojamiento: https://github.com/meryuree/DIU21/blob/COVID-19/P2/Alojamiento%20-%20Initial.jpg
 
-
-Sitemap & Task flow 
-Labelling 
-Wireframe & User flow 
