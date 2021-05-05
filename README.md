@@ -86,6 +86,7 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 -----
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/site-map.jpeg
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
