@@ -1,5 +1,7 @@
 DIU - Practica2, entregables
 
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/feedback-capture-grid.jpeg
+
 1. Propuesta de valor
 
 La propuesta de valor que tenemos se basa en la mejora y adición de ciertos aspectos de Inspirock. Entre estos aspectos se encuentran la traducción de la web a muchos idiomas, una mayor facilidad para comparar los precios de los viajes y hoteles. Además, lo más importante es ofrecer ayuda a más tipos de usuarios, dando facilidades a personas con discapacidad, ancianos o gente con mascotas.
