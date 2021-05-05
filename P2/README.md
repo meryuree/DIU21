@@ -20,6 +20,8 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
 
 4. Mapa de sitio y etiquetado
 
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/site-map.jpeg
+
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
 5. Bocetos 
