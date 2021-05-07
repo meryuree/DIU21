@@ -16,7 +16,7 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 
 3. Análisis de Tareas
 
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/Task-matrix.pdf
 
 4. Mapa de sitio y etiquetado
 
