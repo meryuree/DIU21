@@ -26,13 +26,12 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
 5. Bocetos 
 
-Página inicio: https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
+Página inicio: https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio.jpeg
 
-Home: https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio%20-%20Initial.jpg
+Crear viaje: https://github.com/meryuree/DIU21/blob/COVID-19/P2/crear-viaje.jpeg
 
-Destinos: https://github.com/meryuree/DIU21/blob/COVID-19/P2/destino%20-%20Initial.jpg
+Ayuda: https://github.com/meryuree/DIU21/blob/COVID-19/P2/ayuda.jpeg
 
-Fecha: https://github.com/meryuree/DIU21/blob/COVID-19/P2/iPhone%20Wireframe1%20-%20Initial.jpg
+Final: https://github.com/meryuree/DIU21/blob/COVID-19/P2/final.jpeg
 
-Alojamiento: https://github.com/meryuree/DIU21/blob/COVID-19/P2/Alojamiento%20-%20Initial.jpg
 
