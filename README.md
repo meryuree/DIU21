@@ -85,7 +85,7 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/ScopeCanvas.pdf
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/task_matrix.jpg
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/Task-matrix.pdf
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/site-map.jpeg
 
