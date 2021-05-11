@@ -6,4 +6,16 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P3/moodboard.png
 2. LANDING PAGE
 https://github.com/meryuree/DIU21/blob/COVID-19/P3/landing-page.jpeg
 
+3. PATRONES IU
 
+Buscar destinos: el patrón que vamos a usar para elegir el destino será el ‘search box’ junto con ‘autocomplete’, el usuario podrá buscar un destino específico en la caja de búsqueda y a la vez se buscarán concordancias, agilizando la selección mediante el autocompletado (se irán sugiriendo los destinos que concuerden con los buscados más populares). Los resultados se mostrarán en una lista ordenándose de más buscados a menos. 
+
+Buscar estancia: para esta otra búsqueda usaremos el patrón de filtros. El usuario podrá elegir entre ellos el tipo de alojamiento, distancia, precio, valoración... Los resultados se mostrarán en una lista a la cual también podrán aplicarse filtros de ordenación (por precio de menor a mayor, por precio de mayor a menor, mejor valoración...) 
+
+Navegación: hemos escogido la navegación secuencial (paso a paso), de manera que cuando el usuario escoja la opción de ‘crear viaje’ del menú principal se irá pasando de forma secuencial por varias páginas (existe la opción de volver atrás y editar los datos). Esto se describe mejor en ‘asistencia’. Además, fuera del asistente para crear el viaje la navegación también seguirá el patrón secuencial, mostrando siempre en qué página nos encontramos y ofreciendo la opción de ir hacia atrás. 
+
+Datos de usuario (input): usaremos formularios para la entrada de datos, de manera que se haga conocer al usuario de forma sencilla y clara cuáles serán los datos obligatorios a introducir y cuáles los opcionales en el registro del mismo. A la hora de hacer el sign-in/registration se usará también un formulario sencillo y claro que permita la opción de registrarse con redes sociales (facebook y google). 
+
+Información (mostrar): para mostrar la información de vuelos, estancias, destinos... etc. Usaremos el patrón ‘list inlay’, de manera que los elementos se mostrarán en una columna que consta de tantas filas como elementos haya. Para consultar más información acerca de un elemento en concreto se seleccionará dicho elemento y se abrirá una nueva página que contenga esta información. 
+
+Asistentes: usaremos la asistencia por pasos, aparecerá una “lista” en la parte superior de las páginas que irá indicando los pasos completados y los que quedan por completar al seleccionar la opción de ‘crear viaje’. 
