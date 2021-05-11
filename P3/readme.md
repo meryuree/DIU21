@@ -6,7 +6,8 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P3/moodboard.png
 2. LANDING PAGE
 https://github.com/meryuree/DIU21/blob/COVID-19/P3/landing-page.jpeg
 
-3. PATRONES IU
+3. 
+PATRONES IU:
 
 Buscar destinos: el patrón que vamos a usar para elegir el destino será el ‘search box’ junto con ‘autocomplete’, el usuario podrá buscar un destino específico en la caja de búsqueda y a la vez se buscarán concordancias, agilizando la selección mediante el autocompletado (se irán sugiriendo los destinos que concuerden con los buscados más populares). Los resultados se mostrarán en una lista ordenándose de más buscados a menos. 
 
@@ -19,3 +20,7 @@ Datos de usuario (input): usaremos formularios para la entrada de datos, de mane
 Información (mostrar): para mostrar la información de vuelos, estancias, destinos... etc. Usaremos el patrón ‘list inlay’, de manera que los elementos se mostrarán en una columna que consta de tantas filas como elementos haya. Para consultar más información acerca de un elemento en concreto se seleccionará dicho elemento y se abrirá una nueva página que contenga esta información. 
 
 Asistentes: usaremos la asistencia por pasos, aparecerá una “lista” en la parte superior de las páginas que irá indicando los pasos completados y los que quedan por completar al seleccionar la opción de ‘crear viaje’. 
+
+GUIDELINE:
+
+El estilo que se va a utilizar es material design y los componentes serán los asociados al mismo. Se pueden consultar en https://material.io/
