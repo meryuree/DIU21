@@ -23,7 +23,7 @@ GUIDELINE:
 
 El estilo que se va a utilizar es material design y los componentes serán los asociados al mismo. Se pueden consultar en https://material.io/
 
-4. Layout
+4. LAYOUT
 
   Seleccionar un idioma
   https://github.com/meryuree/DIU21/blob/COVID-19/P3/selecciona-idioma.PNG
@@ -58,7 +58,15 @@ El estilo que se va a utilizar es material design y los componentes serán los a
   Ayuda
   https://github.com/meryuree/DIU21/blob/COVID-19/P3/ayuda.PNG
 
+5. PUBLISH
 
+No pierdas más horas planificando tu viaje, buscando precios en Internet, comparando precios, hoteles y vuelos, Easy Trip lo hará por ti. No importa la edad o las dificultades que tengas, nosotros nos encargaremos de todo proporcionándote transparencia y simplicidad. Con Easy Trip puede organizar su viaje todo el mundo.
+
+¿Eres de los que no le gusta planificar? No te preocupes, Easy Trip cuenta con una infinidad de packs de viaje predefinidos para que puedas ir a los lugares más famosos, exóticos y remotos. Si no estás seguro del lugar elegido, puedes comunicarte con locales y preguntarle todas tus dudas sin ningún reparo. 
+
+Encuentra en viaje más barato en cuestión de segundos, con un plan totalmente hecho a medida para ti. Muchas personas están viajando con Easy Trip.
+
+Opiniones de los clientes: "Mi madre me dió la vida pero esta app me dió ganas de vivirla"
   
   
 
