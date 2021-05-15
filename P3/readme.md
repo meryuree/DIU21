@@ -40,11 +40,26 @@ El estilo que se va a utilizar es material design y los componentes serán los a
   5. Packs disponibles
   https://github.com/meryuree/DIU21/blob/COVID-19/P3/mostrar-packs.PNG
   
-  6. Avion-Hotel
+  6. Parámetros del viaje
+  https://github.com/meryuree/DIU21/blob/COVID-19/P3/parametros-viaje.PNG
+    
+  7. Avion-Hotel
   https://github.com/meryuree/DIU21/blob/COVID-19/P3/avion-hotel.PNG
   
+  8. Diario de viaje
+  https://github.com/meryuree/DIU21/blob/COVID-19/P3/Diario-viaje.PNG
   
-  
-  4. Contratar viaje
+  9. Preguntar locales
+  https://github.com/meryuree/DIU21/blob/COVID-19/P3/preguntar-locales.PNG
+    
+  10. Contratar viaje
   https://github.com/meryuree/DIU21/blob/COVID-19/P3/contratar-viaje.PNG
+  
+  11. Ayuda
+  https://github.com/meryuree/DIU21/blob/COVID-19/P3/ayuda.PNG
+
+
+  
+  
+
   
