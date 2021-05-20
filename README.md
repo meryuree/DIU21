@@ -8,6 +8,8 @@ Proyecto: Easy-Trip
 Descripción: Una página sencilla, clara e intuitiva dónde poder elegir y planificar un viaje inolvidable en sólo 5 pasos.
 
 Logotipo: 
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/logo.PNG)
+
 
 Miembros
  * :bust_in_silhouette:   María Ureña Legaza     :octocat:     
