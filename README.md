@@ -94,10 +94,10 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 -----
 
 Página inicio:
-![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg)
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
 
 Home:
-![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio%20-%20Initial.jpg)
+https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio%20-%20Initial.jpg
 
 Destinos:
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/destino%20-%20Initial.jpg
