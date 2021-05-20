@@ -115,6 +115,7 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Alojamiento%20-%20Initial.jpg
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/moodboard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
