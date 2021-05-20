@@ -114,7 +114,15 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+Buscar destinos: el patrón que vamos a usar para elegir el destino será el ‘search box’ junto con ‘autocomplete’
+
+Navegación: hemos escogido la navegación secuencial (paso a paso)
+
+Datos de usuario (input): usaremos formularios para la entrada de datos
+
+Información (mostrar): para mostrar la información de vuelos, estancias, destinos... etc. Usaremos el patrón ‘list inlay’
+
+Asistentes: usaremos la asistencia por pasos
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
