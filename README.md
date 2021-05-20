@@ -91,20 +91,17 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Página inicio:
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/prototipo%20-%20Initial.jpg
+Página inicio: 
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio.jpeg)
 
-Home:
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio%20-%20Initial.jpg
+Crear viaje: 
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/crear-viaje.jpeg)
 
-Destinos:
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/destino%20-%20Initial.jpg
+Ayuda: 
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/ayuda.jpeg)
 
-Fecha:
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/iPhone%20Wireframe1%20-%20Initial.jpg
-
-Alojamiento:
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/Alojamiento%20-%20Initial.jpg
+Final: 
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/final.jpeg)
 
 
 ## Paso 3. Make (Prototyping) 
