@@ -1,11 +1,11 @@
 # DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+Prácticas Diseño Interfaces de Usuario 2020-21 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU1_PARAGUAS.  Curso: 2020/21 
 
-Proyecto: 
+Proyecto: Easy-Trip
 
-Descripción: Nuestro proyecto consiste en crear una tienda on-line de fotografía (tanto analógica como digital)
+Descripción: Una página sencilla, clara e intuitiva dónde poder elegir y planificar un viaje inolvidable en sólo 5 pasos.
 
 Logotipo: 
 
@@ -14,13 +14,6 @@ Miembros
  * :bust_in_silhouette:  Pedro Iniesta López     :octocat:
 
 ----- 
-
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
 # Proceso de Diseño 
