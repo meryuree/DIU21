@@ -81,7 +81,7 @@ Puede que haya alguna dificultad al implementar los mejores puntos de Inspirock 
 
 https://github.com/meryuree/DIU21/blob/COVID-19/P2/Task-matrix.pdf
 
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/site-map.jpeg
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/site-map.jpeg)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
