@@ -113,7 +113,8 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 
 ![Método UX](img/guidelines.png) 3.c Patrones y Guidelines
 ----
-Patrones escogidos:
+PATRONES:
+
 Buscar destinos: el patrón que vamos a usar para elegir el destino será el ‘search box’ junto con ‘autocomplete’
 
 Navegación: hemos escogido la navegación secuencial (paso a paso)
@@ -124,7 +125,8 @@ Información (mostrar): para mostrar la información de vuelos, estancias, desti
 
 Asistentes: usaremos la asistencia por pasos
 
-Guidelines:
+GUIDELINES:
+
 El estilo que se va a utilizar es material design y los componentes serán los asociados al mismo. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
