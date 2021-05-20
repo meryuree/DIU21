@@ -131,7 +131,7 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Alojamiento%20-%20Initial.jpg
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/selecciona-idioma.PNG)
 
 
 ## Paso 4. UX Check (Usability Testing) 
