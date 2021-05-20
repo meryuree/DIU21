@@ -132,6 +132,16 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Alojamiento%20-%20Initial.jpg
 ----
 
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/selecciona-idioma.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/pagina-inicio.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/Inicio-sesion.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/Registrate.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/mostrar-packs.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/parametros-viaje.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/avion-hotel.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/Diario-viaje.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/preguntar-locales.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/contratar-viaje.PNG)
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P3/ayuda.PNG)
 
 
 ## Paso 4. UX Check (Usability Testing) 
