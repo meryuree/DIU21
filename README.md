@@ -79,8 +79,6 @@ Puede que haya alguna dificultad al implementar los mejores puntos de Inspirock 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-https://github.com/meryuree/DIU21/blob/COVID-19/P2/Task-matrix.pdf
-
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/site-map.jpeg)
 
 
