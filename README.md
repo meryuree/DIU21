@@ -1,4 +1,4 @@
-# DIU20
+# DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 
 
 Grupo: DIU1_PARAGUAS.  Curso: 2020/21 
