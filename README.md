@@ -91,16 +91,9 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P2/Labelling.pdf
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Página inicio: 
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/inicio.jpeg)
-
-Crear viaje: 
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/crear-viaje.jpeg)
-
-Ayuda: 
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/ayuda.jpeg)
-
-Final: 
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P2/final.jpeg)
 
 
