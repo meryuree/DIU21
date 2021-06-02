@@ -180,7 +180,8 @@ https://github.com/meryuree/DIU21/blob/COVID-19/P4/Cuestionario%20SUS%20DIU%20(1
 ![Método UX](img/usability-report.png) 4.c Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B 
+Report de usabilidad:
+https://github.com/meryuree/DIU21/blob/COVID-19/P4/DIU_report-template-usability-testOK.pdf
 
 
 
