@@ -154,6 +154,7 @@ El estilo que se va a utilizar es material design y los componentes serán los a
 Vamos a evaluar a:
 ![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P4/eco-travel.PNG)
 
+Según sus desarrolladores: "EcoTravel consiste en una aplicación que busca ofrecer una alternativa a aquellas personas que desean viajar respetando la naturaleza y descubriendo lugares y comercios rurales y que respeten la tradición, productos y lugares. Pretende crear una comunidad de usuarios y comercios/servicios que sigan estos valores y principios y conectarlos."
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
