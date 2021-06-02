@@ -164,20 +164,17 @@ Según sus desarrolladores: "EcoTravel consiste en una aplicación que busca ofr
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Juan       | H / 20   | Estudiante       | Alta       | Introvertido | Web.       | A 
+| Marta      | M / 50   | Ama de casa      | Baja       | Timido       | Web        | A 
+| Pedro      | H / 65   | Jubilado         | Media      | Emocional    | móvil      | B 
+| Ana        | M / 35   | Médica           | Media      | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+Hemos realizado el cuestionario SUS, aquí:
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+https://github.com/meryuree/DIU21/blob/COVID-19/P4/Cuestionario%20SUS%20DIU%20(1).pdf
 
 
 ![Método UX](img/usability-report.png) 4.c Usability Report
