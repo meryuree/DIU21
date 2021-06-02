@@ -151,10 +151,8 @@ El estilo que se va a utilizar es material design y los componentes serán los a
 ![Método UX](img/ABtesting.png) 4.a A/B Testing
 ----
 
-
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
->>>> Práctica A: 
+Vamos a evaluar a:
+![alt text](https://github.com/meryuree/DIU21/blob/COVID-19/P4/eco-travel.PNG)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
